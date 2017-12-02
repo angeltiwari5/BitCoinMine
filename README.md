@@ -1,7 +1,7 @@
 # BitCoinMine
 Group Members-
-1. Umang Hans ( 63564391)
-2. Angel Tiwari (86495810)
+1. Umang Hans 
+2. Angel Tiwari 
 • Work Unit –
 The size of the work unit that resulted in best performance for our
 implementation was 1,000,000 i.e. 1 million strings. This was
